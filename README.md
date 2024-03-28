@@ -1,4 +1,4 @@
-# Aplicación de Gestión de Turnos
+# Aplicación de Gestión de Turnos 
 
 Este repositorio contiene el desarrollo del backend para una aplicación de gestión de turnos, realizado como parte de la Prueba Técnica Nº 2 - Java Avanzado.
 
